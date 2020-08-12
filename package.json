@@ -1,0 +1,25 @@
+{
+  "name": "closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/scope/global.js",
+    "test1": "node src/scope/local.js",
+    "test2": "node src/scope/functions.js",
+    "test3": "node src/scope/block.js",
+    "test4": "node src/closure/closure.js",
+    "test5": "node src/closure/lexical.js",
+    "test6": "node src/closure/private.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardofrp5/Closures-scope-javaScript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardofrp5/Closures-scope-javaScript/issues"
+  },
+  "homepage": "https://github.com/leonardofrp5/Closures-scope-javaScript#readme"
+}
